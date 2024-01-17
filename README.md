@@ -1,3 +1,5 @@
+**Training Management System**
+
 A simple training management system where user can: 
 1. Insert new training & trainers
 2. Upload training module
