@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="903" alt="training" src="https://github.com/aishahzbr/Training-System-Laravel/assets/101313173/484c9276-35e2-4b3d-b925-b169dd0a297f">
 
 
 **Training Management System**
